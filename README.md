@@ -19,19 +19,6 @@ This project provides APIs for cart management, entity handling, service logic, 
 
 📬 Postman Collection for API Testing
 
-🏗 Project Structure
-src/main/java/com/balacode/balacart
-│
-├── controller     # REST Controllers
-├── dto            # Data Transfer Objects
-├── entity         # JPA Entities
-├── repository     # Spring Data Repositories
-├── seed           # Initial Data Loader
-├── services       # Business Logic Layer
-├── spec           # Specifications / Config
-│
-├── BalacartApplication.java
-└── SecurityConfig.java
 🛠 Tech Stack
 
 Java 17+
@@ -95,7 +82,3 @@ How to Import:
 5.Click Import
 
 
-
-This project is open-source and available under the MIT License.
-
-If you want, I can also give you a more professional recruiter-level README with badges and screenshots 🚀
